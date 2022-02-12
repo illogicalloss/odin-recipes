@@ -1,0 +1,31 @@
+* {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+li {
+    font-weight: bold;
+    
+}
+
+ul {
+    font-size: 20px;
+}
+
+.contents li{
+    font-size: 40px;
+    text-align: left;
+}
+
+.title{
+    font-size: 80px;
+    text-decoration: underline;
+}
+
+.directions li{
+    text-align:left;
+}
